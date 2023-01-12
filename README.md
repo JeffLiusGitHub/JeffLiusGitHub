@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JeffLiusGitHub
-- 👀 I’m interested in React HTML SCSS CSS Javascript Asp.net JAVA Python Next.js and graphQL,docker
+- 👀 I’m interested in React HTML SCSS CSS Javascript Asp.net JAVA Python Next.js docker and graphQL
 - 🌱 I’m an expert of React, typescript, styled-component, restful api...
 - 📚 I’m learning kubernetes now.
 - 💞️ I’m looking to collaborate on ...
