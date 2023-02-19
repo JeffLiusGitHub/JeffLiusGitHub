@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JeffLiusGitHub
 - 👀 I’m interested in React HTML SCSS CSS Javascript Asp.net JAVA Python Next.js docker kubernetes and graphQL
 - 🌱 I’m an expert of React, typescript, styled-component, restful api...
-- 📚 I’m learning AWS solution architect now.
+- 📚 I’m learning AWS certified developer associate now.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jeffliu2802@hotmail.com
 - 📄 Want to learn more? Visit https://portfolio-add7c.web.app/ 
